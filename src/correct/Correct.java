@@ -36,6 +36,7 @@ public class Correct {
              Map.Entry mentry=(Map.Entry) iterator.next();
              System.out.println("key is: "+mentry.getKey()+" & value is");
               System.out.println(mentry.getValue());
+               System.out.println("shgayug");
           }
            String var=hmap.get(2);
            System.out.println("value at index 2 is "+var);
